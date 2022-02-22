@@ -3,6 +3,6 @@ public class App {
         System.out.println("Hello, Git!");
         System.out.println("Hello, Git!");
         System.out.println("Goodbye, Git!");
-        System.out.println("Goodbye, Git!");
+        System.out.print("Goodbye, Git!");
     }
 }
